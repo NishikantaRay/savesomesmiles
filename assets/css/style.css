@@ -19196,7 +19196,7 @@ input:checked ~ .sign__form-rem--checkmark::after {
 .footer__social-link:hover {
   -webkit-transition: all 0.3s ease !important;
   transition: all 0.3s ease !important;
-  background: #18b89c;
+  background: #fff;
 }
 .footer__sub {
   font-family: "Inter", sans-serif;
