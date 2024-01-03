@@ -19167,9 +19167,9 @@ input:checked ~ .sign__form-rem--checkmark::after {
   margin: 0 0;
 }
 .footer__social-ul {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
+  justify-content: center;
+  align-items: center;
   gap: 16px;
 }
 .footer__social-link {
